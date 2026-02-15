@@ -6,7 +6,7 @@ A modern and fully responsive website template built using HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-🔗 View Live Demo: https://your-live-demo-link.com
+🔗 View Live Demo: https://abdelfatahh1.github.io/JavaScript-Template/
 
 ---
 
